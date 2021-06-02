@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "181f2035-f2b9-4e8c-897c-055c27ac57d0",
+      "name": "DJasaaaaaaaaaaaaaaa",
+      "email": "DJ@mail.com"
+    },
+    {
+      "id": "bf6ac2a6-c57e-4b41-a152-bd9ea272ba79",
+      "name": "ghghgh",
+      "email": "fhw@sddddddddddd.com"
+    },
+    {
+      "id": "82439cb4-108a-46c6-9f36-d2b228f2c037",
+      "name": "nitin",
+      "email": "shah"
+    },
+    {
+      "id": "e4ac1812-8432-4d1e-810e-843ca3f765fa",
+      "name": "abhish",
+      "email": "mathew"
+    }
+  ]
+}

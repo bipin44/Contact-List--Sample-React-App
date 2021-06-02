@@ -7,4 +7,8 @@ Features :
 -Delete Contact
 -Search Contact
 
+This app uses temporary server "json-server"
 
+To run App:
+1.cd Contact-App -> npm start
+2.cd server -> npm start
